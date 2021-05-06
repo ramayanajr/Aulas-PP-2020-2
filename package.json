@@ -1,0 +1,21 @@
+{
+  "name": "aula02",
+  "version": "1.0.0",
+  "description": "Conteudos da aula 02",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula",
+    "javascript",
+    "typescript"
+  ],
+  "author": "ramayana",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
